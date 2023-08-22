@@ -1,0 +1,287 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x840"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x300"
+                }
+            }
+        }
+    },
+    "category": {
+        "builder": true,
+        "name": "Category Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "choose_reason": {
+        "builder": true,
+        "name": "Why Choose Us",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "icon": "icon",
+            "modal": true
+        }
+    },
+    "review": {
+        "builder": true,
+        "name": "Review",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "cta": {
+        "builder": true,
+        "name": "CTA Section",
+        "content": {
+            "heading": "text",
+            "subheading": "textarea"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "icon": "icon",
+            "url": "text",
+            "button_name": "text",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ's",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "1920x1080"
+                }
+            }
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": false
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "1920x840"
+                }
+            }
+        },
+        "element": {
+            "name": "text",
+            "address": "text",
+            "quote": "textarea",
+            "images": {
+                "image": {
+                    "size": "300x300"
+                }
+            },
+            "modal": true
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "830x460",
+                    "thumb": "415x230"
+                }
+            },
+            "title": "text",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer",
+        "content": {
+            "heading": "text",
+            "description": "textarea"
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icon",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+
+    "contact": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "icon": "text",
+            "content": "text",
+            "modal": true
+        },
+        "modal": false
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register",
+        "content": {
+            "greeting": "text",
+            "heading": "text",
+            "images": {
+                "image": {
+                    "size": "1920x1280"
+                }
+            }
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login",
+        "content": {
+            "greeting": "text",
+            "heading": "text",
+            "images": {
+                "image": {
+                    "size": "1920x1080"
+                }
+            }
+        }
+    },
+    "forgot_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Forgot Password Page",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "830x620"
+                }
+            }
+        }
+    },
+    "verification_code": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Verification Code Page",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "830x620"
+                }
+            }
+        }
+    },
+    "reset_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Page",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "830x620"
+                }
+            }
+        }
+    },
+    "email_authentication": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Email Authentication",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "830x620"
+                }
+            }
+        }
+    },
+    "mobile_authentication": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Mobile Authentication",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "images": {
+                "image": {
+                    "size": "830x620"
+                }
+            }
+        }
+    },
+    "company_list_section": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Company list Section",
+        "content": {
+            "title": "text",
+            "button_name": "text",
+            "link": "text"
+        }
+    }
+}
